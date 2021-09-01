@@ -3,7 +3,7 @@ body {
   background-color: #E8ECEF;
   overflow-x: hidden;
   background-image: url("../images/bgimg6.png");
-  background-size: cover;
+  background-size: 100vw 100vh;
   background-repeat: no-repeat;
 
 }
